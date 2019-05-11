@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="51.010506mm"
+   height="29.148861mm"
+   viewBox="0 0 51.010506 29.148861"
+   version="1.1"
+   id="svg214"
+   inkscape:export-filename="C:\Users\DANIEL MAURICIO\Desktop\Sprites\BronceC.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="BronceCSVG.svg">
+  <defs
+     id="defs208" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-370.74504"
+     inkscape:cy="280.79875"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata211">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-64.453077,-193.97914)">
+    <g
+       id="g17131"
+       transform="matrix(0.26458333,0,0,0.26458333,209.55,-17.199504)"
+       inkscape:export-xdpi="62.048431"
+       inkscape:export-ydpi="62.048431">
+      <rect
+         rx="8.1410503"
+         ry="10.18053"
+         y="801.76569"
+         x="-544.78766"
+         height="102.94859"
+         width="185.57529"
+         id="rect815-4"
+         style="display:inline;opacity:1;fill:#ac6d1f;fill-opacity:1;stroke:#000000;stroke-width:7.22033119;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path17083-0"
+         d="M -544.78765,801.76569 V 904.7143 h 185.57529 l -152.09378,-23.94177 z"
+         style="fill:#000000;fill-opacity:0.23529412;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path17085-0"
+         d="m -495.80614,805.52253 127.99999,-0.007 3.34379,0.74976 1.26235,3.75518 0.23765,86.69343 -17.34378,-67.94137 z"
+         style="fill:#ffffff;fill-opacity:0.25490196;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
